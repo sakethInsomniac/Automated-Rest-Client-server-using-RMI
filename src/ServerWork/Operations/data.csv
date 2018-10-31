@@ -1,0 +1,38 @@
+food,BreakFast,Egg scrambled,3,594,10.9,1.9,10.2,0,124
+food,BreakFast,Egg fried,3,745,13.6,0.3,13.7,0,125
+food,BreakFast,Muesli commercial toasted added nuts,4,1835,12.8,4.1,21.7,8.9,126
+food,BreakFast, Quinoa cooked in milk no added salt,3,489,5.9,16.3,3.1,1.4,127
+food,BreakFast,rolled oats prepared with regular fat cows milk,4,522,5.4,15.1,4.8,1.7,128
+food,BreakFast,flakes of corn added nuts and vitamins B1 B2 B3,5,1587,6.3,75.2,3.6,10.5,129
+food,Lunch,Sandwich chicken & salad,7,653,10.4,18,4,2.6,130
+food,Lunch,Sandwich ham & cheese,7,1102,14.1,23.6,11.6,2.9,131
+food,Lunch,Sandwich ham & salad,6,649,7.4,20.6,3.9,3.3,132
+food,Lunch,Sandwich ham & tomato toasted,8,879,10,27.6,5.5,3.7,133
+food,Lunch,Sandwich with peanut butter,5,1295,11.2,34.8,13,4.5,134
+food,Lunch,Sandwich roast beef or lamb & salad,10,707,15.6,14.1,5,2.1,135
+food,Lunch,Sandwich tuna,7,881,16.2,19.6,6.9,2.2,136
+food,Lunch,Sandwich tuna & salad,6,667,12,15.3,5,2.3,137
+food,Lunch,Steak sandwich beef steak,12,886,20.1,13.8,8.2,1,138
+food,Lunch,Steak sandwich beef steak cheese & salad,13,695,14.8,10.3,7,1.4,139
+food,Dinner,Vegetable or lentil burger,6,909,7.4,35.3,4.3,3.3,140
+food,Dinner,Vegetable or lentil burger with cheese & salad,8,717,6.5,24.6,4.5,2.9,141
+food,Dinner,Risotto chicken & mixed vegetables,7,619,6.9,20.6,3.9,1.4,142
+food,Dinner,Pizza cheese & tomato ,6,1110,12.5,30.5,10.1,2.1,143
+food,Dinner,Noodle with egg plain boiled,8,586,5.7,27.4,27.4,1.9,144
+food,Dinner,Pasta dish added chicken,10,824,9.5,14.5,11.2,1.3,145
+food,Dinner,Frittata  cheese chicken & mixed vegetable,12,637,15.4,3.4,8.5,1.3,146
+food,Dinner,Pie savoury meat,10,893,8.6,19.3,11.3,2,147
+Beverage,BreakFast,Beverage chocolate flavour with regular fat cows milk,3,366,3.5,10.8,3.5,0.1,220
+Beverage,BreakFast,Chai latte regular fat cows milk,4,407,4,12.2,3.8,0,221
+Beverage,BreakFast,Chai latte reduced fat cows milk,4,329,4.4,11.5,1.8,0,222
+Beverage,BreakFast,Coffee made up with regular fat cows milk,5,263,3.2,5.5,3.1,0.2,223
+Beverage,BreakFast,Coffee cappuccino with regular fat cows milk,6,221,2.6,4.8,2.6,0,224
+Beverage,BreakFast,Coffee cappuccino with skim cows milk,5,116,2.7,4,0.2,0,225
+Beverage,BreakFast,Coffee flat white or latte with regular fat cows milk,7,228,2.7,4.8,2.8,0,226
+Beverage,Lunch,Coffee flat white with skim cows milk,5,116,2.9,3.9,0.1,0,227
+Beverage,Lunch,Coffee macchiato with regular fat cows milk,8,54,0.7,1,0.7,0,228
+Beverage,Lunch,Cordial fruit cup stronger ,6,174,0,10.7,0,0,229
+Beverage,Lunch,Cordial lime or green regular,5,159,0,9.6,0,0,230
+Beverage,Dinner, apple juice commercial,5,178,0.1,10.9,0,0,231
+Beverage,Dinner,orange juice commercial,5,176,0.2,10.4,0,0.1,232
+Beverage,Dinner,Juice carrot,4,133,0.8,5,0.1,4,233
